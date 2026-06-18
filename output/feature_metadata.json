@@ -1,0 +1,7 @@
+{
+  "target_transform": "log1p",
+  "target_mean": 444.1880434507253,
+  "target_std": 1422.0421840967108,
+  "row_count": 25562.0,
+  "revenue_skew": 15.847479694432762
+}
